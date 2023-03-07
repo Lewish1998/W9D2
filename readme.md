@@ -17,4 +17,4 @@ Questions
 8) the mongodb driver allows node applications to connect to and work with data in mongodb. ?????
 
 
-![diagram]('./diagram.png')
+![diagram](./diagram.png)
